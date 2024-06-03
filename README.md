@@ -27,7 +27,7 @@
 - Como melhor otimizar meus códigos e reduzi-los sempre que possível.
 - Quero também aprender mais sobre os métodos que podem ser utilizados em código.
 
-## o que aprendi sobre os assuntos que foram abordados nesse módulo?
+## O que aprendi sobre os assuntos que foram abordados nesse módulo?
 
 - Aprendi sobre como usar um template para criar uma carta de apresentação.
 - Aprendi a não utilizar currículos gráficos como o do Canvas para seleções de emprego.
