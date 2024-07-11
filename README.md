@@ -62,4 +62,4 @@
 - Aprendi como gerenciar um servidor simples via código.
 - Aprendi a me comunicar melhor com outros programadores.
 - Aprendi conceitos básicos sobre a leitura e escrita de arquivos.
-- Aprendui conceitos básicos sobre orientação a objetos.
+- Aprendi conceitos básicos sobre orientação a objetos.
