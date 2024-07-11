@@ -2,7 +2,7 @@
 
 # Evolução de Aprendizagem - Cubos
 
-## Conteúdos a serem trabalhados nesse módulo:
+## Conteúdos a serem trabalhados em módulos anteriores:
 
 - Curriculo e Carta de Apresentação
 - Funções
@@ -12,6 +12,9 @@
 - Métodos de arrays
 - Tipos de Dados
 - Tipos Utilitários
+
+## Conteúdos a serem trabalhados nesse módulo:
+
 - Testes Automatizados 
 - Primeiro Servidor 
 - Rotas, Intermediários e Controladores 
@@ -62,4 +65,4 @@
 - Aprendi como gerenciar um servidor simples via código.
 - Aprendi a me comunicar melhor com outros programadores.
 - Aprendi conceitos básicos sobre a leitura e escrita de arquivos.
-- Aprendui conceitos básicos sobre orientação a objetos.
+- Aprendi conceitos básicos sobre orientação a objetos.
