@@ -2,7 +2,7 @@
 
 # Evolução de Aprendizagem - Cubos
 
-## Conteúdos a serem trabalhados em módulos anteriores:
+## Conteúdos trabalhados em módulos anteriores:
 
 - Curriculo e Carta de Apresentação
 - Funções
